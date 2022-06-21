@@ -9,9 +9,10 @@ echo "<html>
 <head>
 	<meta name='robots' content='noindex'/>
  <title>
- 	你看起来像条狗
+ 	Indonesia Darurat Membaca
  </title>
 </head>
+<body bgcolor="cyan">
 </html>";
 $mynameyangsuperkeren="~root@tikushaxor: ";
 $lokalroot="  LOCALROOT PKEXEC: ";
